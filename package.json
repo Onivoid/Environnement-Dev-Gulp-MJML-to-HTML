@@ -1,0 +1,26 @@
+{
+  "name": "emailing",
+  "version": "1.0.0",
+  "description": "MJML Responssive Email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "keywords": [
+    "MJML",
+    "Responssive",
+    "Mail"
+  ],
+  "author": "Logan Wilquin",
+  "license": "ISC",
+  "dependencies": {
+    "argv": "0.0.2",
+    "browser-sync": "^2.24.7",
+    "cross-env": "^5.2.0",
+    "gulp": "^3.9.1",
+    "gulp-mjml": "^3.0.0",
+    "mjml": "^4.2.0-beta.3",
+    "yargs": "^12.0.2"
+  }
+}

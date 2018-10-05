@@ -1,0 +1,21 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-text align="center" font-size="20px" color="#ff6b6b">
+        Your page was Generated Succefully and you developpement environnement too !
+      </mj-text>
+
+      <mj-spacer height="20px"/>
+
+      <mj-text align="center" font-size="15px" color="#333333">
+        Let's start a new Responssive-Mail, click on this link to go on the Documentation page of MJML :
+      </mj-text>
+
+      <mj-spacer height="20px"/>
+
+      <mj-button href="https://mjml.io/documentation/" color="white" background-color="#ff6b6b" target="_blank">
+        MJML Framework's documentation Page
+      </mj-text>
+    <mj-section>
+  <mj-body>
+</mjml>

@@ -18,9 +18,11 @@
     "argv": "0.0.2",
     "browser-sync": "^2.24.7",
     "cross-env": "^5.2.0",
+    "file-system": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-mjml": "^3.0.0",
     "mjml": "^4.2.0-beta.3",
+    "run-sequence": "^2.2.1",
     "yargs": "^12.0.2"
   }
 }
